@@ -23,7 +23,7 @@
     "macaca-utils": "1",
     "remote-debugger": "~1.1.0",
     "webdriver-dfn-error-code": "~1.0.1",
-    "xctestwd": "1",
+    "xctestwd": "tumor800/XCTestWD",
     "xlogger": "1"
   },
   "devDependencies": {
